@@ -20,3 +20,19 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Server running on port 3000');
 });
+
+
+# My First Project
+This is my first repository.
+
+## Tools Used
+- GitHub
+- JavaScript / Node.js
+- VS Code
+
+## What I Learned
+- How to create a repo
+- How to commit code
+- Basics of Software Development
+
+Author: BlessingBeDev
