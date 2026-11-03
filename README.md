@@ -5,7 +5,7 @@ function greet(name) {
   return `Hello, ${name}! Welcome to Software Development.`;
 }
 
-console.log(greet("Junior Dev"));
+console.log(greet("BlessingBeDev"));
 
 
 
@@ -22,12 +22,12 @@ app.listen(3000, () => {
 });
 
 
-# My First Project
+# Marve
 This is my first repository.
 
 ## Tools Used
 - GitHub
-- JavaScript / Node.js
+- JavaScript / Index.js
 - VS Code
 
 ## What I Learned
