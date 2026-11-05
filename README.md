@@ -5,7 +5,7 @@ function greet(name) {
   return `Hello, ${name}! Welcome to Software Development.`;
 }
 
-console.log(greet("BlessingBeDev"));
+Index.js(greet("BlessingBeDev"));
 
 
 
